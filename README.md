@@ -1,4 +1,4 @@
-# A collection of PhP scripts I wrote for practice
+# A collection of PHP scripts I wrote for practice
 
 Program/problem description is given as doc comment on top of each program.
 
